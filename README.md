@@ -10,7 +10,8 @@
 * Disable Windows Auto Updates & Popups
 * Disable Antivirus Popups
 ##
-### Step 2 - 
+### Step 2 - Install C# Biometric Windows Application for Biometric Integration.
+##
 ### Step 3 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
 * https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
