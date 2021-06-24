@@ -10,14 +10,16 @@
 * Disable Windows Auto Updates & Popups
 * Disable Antivirus Popups
 ##
-### Step 2 - Install MongoDB
+### Step 2 - 
+### Step 3 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
 * https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 ##
-### Step 3 - Access Github & Download Latest Release
+### Step 4 - Access Github & Download Latest Release
 * https://github.com/Aadhithya1718/ALCKioskElectronRelease
 ##
-### Step 4 - Run EXE
+### Step 5 - Run EXE
+* EXE will automatically update if any update is available in future. Therefore, no need to follow these steps for updates.
 ##
 # Server Side
 ### Step 1 - Add kiosk_settings record for the kiosk ip in 11.8 mongoDB.
