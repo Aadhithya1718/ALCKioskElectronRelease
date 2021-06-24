@@ -1,14 +1,23 @@
 # ALCKioskElectronRelease
 
 # Kiosk Side
-### Step 1 - Install MongoDB
+### Step 1 - Install Required Drivers & Prerequistions
+* Install Touch Screen Drivers
+* Install Thermal Printer Drivers
+* Install Set Default Printer to Thermal Printer
+* Install Digital Persona Biometric Drivers
+* Disable Windows Notifications & Popups
+* Disable Windows Auto Updates & Popups
+* Disable Antivirus Popups
+##
+### Step 2 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
 * https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 ##
-### Step 2 - Access Github & Download Latest Release
+### Step 3 - Access Github & Download Latest Release
 * https://github.com/Aadhithya1718/ALCKioskElectronRelease
 ##
-### Step 3 - Run EXE
+### Step 4 - Run EXE
 ##
 # Server Side
 ### Step 1 - Add kiosk_settings record for the kiosk ip in 11.8 mongoDB.
@@ -24,4 +33,7 @@
 ```
 ##
 # Done ✌️
+##
+### Points to take care while kiosk setup
+* 
 
