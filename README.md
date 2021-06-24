@@ -9,9 +9,7 @@
 * https://github.com/Aadhithya1718/ALCKioskElectronRelease
 ##
 ### Step 3 - Run EXE
-#
-
-#
+##
 # Server Side
 ### Step 1 - Add kiosk_settings record for the kiosk ip in 11.8 mongoDB.
 ```
