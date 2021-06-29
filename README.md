@@ -14,7 +14,7 @@
 * Enable Auto Login in Startup
 ##
 ### Step 2 - Install Correct FingerPrint DP Driver
-* Install driver only from RTE x64 folder in Production Kiosk. Not from SDK folder.
+* Below Link has the RTE Setup for Production Kiosk. This setup will not work for debug sdk.
 * https://drive.google.com/drive/folders/1JZ4hLI8kYvR90qqHPZbKCPx5K7myLvzs?usp=sharing
 ### Step 3 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
