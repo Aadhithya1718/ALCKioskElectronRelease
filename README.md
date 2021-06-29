@@ -16,6 +16,7 @@
 ### Step 2 - Install Correct FingerPrint DP Driver
 * Below Link has the RTE Setup for Production Kiosk with 64-Bit Windows. This setup will not work for debug sdk.
 * https://drive.google.com/drive/folders/1JZ4hLI8kYvR90qqHPZbKCPx5K7myLvzs?usp=sharing
+##
 ### Step 3 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
 * https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
