@@ -11,6 +11,7 @@
 * Disable Windows Auto Updates & Popups
 * Disable Windows Auto Sleep & Display Auto-Off
 * Disable Antivirus Popups
+* Disable Touch Visual Feedback in Windows Settings
 * Set Empty Password for Kiosk Login
 * Enable Auto Login in Startup
 ##
