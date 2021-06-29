@@ -9,6 +9,7 @@
 * Install Set Default Printer to Thermal Printer
 * Disable Windows Notifications & Popups
 * Disable Windows Auto Updates & Popups
+* Disable Windows Auto Sleep & Display Auto-Off
 * Disable Antivirus Popups
 * Set Empty Password for Kiosk Login
 * Enable Auto Login in Startup
