@@ -1,26 +1,27 @@
 # ALCKioskElectronRelease
 
 # Kiosk Side
-### Step 1 - Install Required Drivers & Prerequistions
+
+### Step 1 - Prerequistions Installations
+* Works in Windows 10 64-Bit CPU Only
 * Install Touch Screen Drivers
 * Install Thermal Printer Drivers
 * Install Set Default Printer to Thermal Printer
-* Install Digital Persona Biometric Drivers
 * Disable Windows Notifications & Popups
 * Disable Windows Auto Updates & Popups
 * Disable Antivirus Popups
+* Set Empty Password for Kiosk Login
+* Enable Auto Login in Startup
 ##
-### Step 2 - Install C# Biometric Windows Application for Biometric Integration.
-##
+### Step 2 - Install Correct FingerPrint DP Driver
+* Install driver only from RTE x64 folder in Production Kiosk. Not from SDK folder.
+* https://drive.google.com/drive/folders/1JZ4hLI8kYvR90qqHPZbKCPx5K7myLvzs?usp=sharing
 ### Step 3 - Install MongoDB
 * https://www.mongodb.com/try/download/community?tck=docs_server
 * https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 ##
 ### Step 4 - Access Github & Download Latest Release
 * https://github.com/Aadhithya1718/ALCKioskElectronRelease
-##
-### Step 5 - Run EXE
-* EXE will automatically update if any update is available in future. Therefore, no need to follow these steps for updates.
 ##
 # Server Side
 ### Step 1 - Add kiosk_settings record for the kiosk ip in 11.8 mongoDB.
@@ -37,6 +38,3 @@
 ##
 # Done ✌️
 ##
-### Points to take care while kiosk setup
-* 
-
