@@ -38,6 +38,7 @@
     "FPDeviceName": "Kiosk Live 1"
 }
 ```
+* Correct Theme Color should be set based on kiosk frame color.
 ##
 # Done ✌️
 ##
