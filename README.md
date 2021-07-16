@@ -14,6 +14,7 @@
 * Disable Touch Visual Feedback in Windows Settings
 * Set Empty Password for Kiosk Login
 * Enable Auto Login in Startup
+* Increase Moniter Brightness to high.
 ##
 ### Step 2 - Install Correct FingerPrint DP Driver
 * Below Link has the RTE Setup for Production Kiosk with 64-Bit Windows. This setup will not work for debug sdk.
@@ -35,7 +36,9 @@
     "theme": "#133951",
     "Division_id": 1,
     "ip": "192.168.1.207",
-    "FPDeviceName": "Kiosk Live 1"
+    "FPDeviceName": "Kiosk Live 1",
+    "dev": false,
+    "FPValidation" : true
 }
 ```
 * Correct Theme Color should be set based on kiosk frame color.
